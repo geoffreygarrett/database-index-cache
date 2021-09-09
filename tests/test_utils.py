@@ -1,4 +1,4 @@
-from dbci.utils import yaml2dict
+from idc.utils import yaml2dict
 
 
 def test_yaml2dict():

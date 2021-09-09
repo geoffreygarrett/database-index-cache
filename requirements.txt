@@ -1,0 +1,7 @@
+pydantic
+bz2
+gzip
+zipfile
+yaml
+requests
+astropy
